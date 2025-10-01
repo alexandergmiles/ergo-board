@@ -20,6 +20,7 @@
 			, <&pro_micro (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
 			, <&pro_micro (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
 			, <&pro_micro (GPIO_ACTIVE_HIGH | GPIO_PULL_DOWN)>
+			;
 	};
 
 	default_transform: keymap_transform0 {
@@ -45,5 +46,5 @@
 	chosen {
 	  zmk,kscan = &kscan0;
 	  zmk,physical-layout = &default_layout;
-	}
+	};
 };
