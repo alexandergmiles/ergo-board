@@ -1,11 +1,11 @@
 file_format: "1"
-id: ergoboard
-name: ErgoBoard
+id: ergb
+name: Ergb
 type: shield
 url: https://github.com/alexandergmiles/pubsub
 requires: [pro_micro]
 features:
   - keys
 siblings:
-  - ergoboard_left
-  - ergoboard_right
+  - ergb_left
+  - ergb_right

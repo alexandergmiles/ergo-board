@@ -1,14 +1,14 @@
-if SHIELD_ERGOBOARD
+if SHIELD_ERGB
 
 config ZMK_KEYBOARD_NAME
-  default "ErgoBoard"
+  default "ERGB"
 
 config ZMK_SPLIT_ROLE_CENTRAL
   default y
 
 endif
 
-if SHIELD_ERGOBOARD_LEFT || SHIELD_ERGOBOARD_RIGHT
+if SHIELD_ERGB_LEFT || SHIELD_ERGB_LEFT
 
 config ZMK_SPLIT
   default y
