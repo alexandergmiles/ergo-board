@@ -1,4 +1,4 @@
-#include "ergoboard.dtsi"
+#include "ergb.dtsi"
 
 &default_transform {
   col-offset = <6>;
