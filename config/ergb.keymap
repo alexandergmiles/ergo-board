@@ -8,12 +8,20 @@
 	  default_layer {
 		display-name = "Base";
 		bindings = <
-		  &studio_unlock &kp A &kp A &kp A &kp A &kp A	  &kp A &kp A &kp A &kp A &kp A &kp A
-		  &kp A &kp A &kp A &kp A &kp A &kp A	  &kp A &kp A &kp A &kp A &kp A &kp A
-		  &kp A &kp A &kp A &kp A &kp A &kp A	  &kp A &kp A &kp A &kp A &kp A &kp A
-		  &kp A &kp A &kp A &kp A &kp A &kp A	  &kp A &kp A &kp A &kp A &kp A &kp A
-		  &kp A &kp A &kp A &kp A &kp A &kp A	  &kp A &kp A &kp A &kp A &kp A &kp A
-		  &kp A &kp A &kp A &kp A &kp A &kp A	  &kp A &kp A &kp A &kp A &kp A &kp A
+		//---------------------------------------	  -----------------------------------
+		//| ESC	  | 1	| 2	  | 3	| 4	  | 5	|	  | Y	|	  |		|	  | 	|	|
+		//|	TAB	  | Q	| W	  | E	| R	  | T	|	  |		|	  |		|	  | 	|	|
+		//| TL1	  | A	| S	  | D	| F	  | G	|	  |		|	  |		|	  |		|	|
+		//|	LSHFT | Z	| X	  | C	| V	  | B	|	  |		|	  |		|	  |		|	|
+		//|	LCTRL | ALT	| NIL | NIL | SPC | RSHT|	  |		|	  |		|	  |		|	|
+		//|				|LCTRL|	ALT	| NIL |	NIL	|	  |		|	  |		|	  |		|	|
+		//|--------------------------------------	  |---------------------------------|
+		  &kp ESC &kp N1 &kp N2 &kp N3 &kp N4 &kp N5		  &kp A &kp A &kp A &kp A &kp A &kp A
+		  &kp TAB &kp Q &kp W &kp E &kp R &kp T		  &kp A &kp A &kp A &kp A &kp A &kp A
+		  &kp A &kp A &kp A &kp A &kp A &kp A		  &kp A &kp A &kp A &kp A &kp A &kp A
+		  &kp A &kp A &kp A &kp A &kp A &kp A		  &kp A &kp A &kp A &kp A &kp A &kp A
+		  &kp A &kp A &kp A &kp A &kp A &kp A		  &kp A &kp A &kp A &kp A &kp A &kp A
+		  &kp A &kp A &kp A &kp A &kp A &kp A		  &kp A &kp A &kp A &kp A &kp A &kp A
 		>;
 	  };
 	};
