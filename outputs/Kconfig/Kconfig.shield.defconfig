@@ -1,0 +1,2 @@
+osource "../../ergo-board/boards/shields/*/Kconfig.defconfig"
+osource "/Users/alexandergmiles/zmk/zmk/app/boards/shields/*/Kconfig.defconfig"
