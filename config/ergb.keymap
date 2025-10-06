@@ -20,7 +20,7 @@
 		  &kp CAPS &kp Q &kp W &kp E &kp R &kp T				  &kp Y &kp U &kp I &kp O &kp P &kp EQUAL
 		  &kp TAB &kp A &kp S &kp D &kp F &kp G					  &kp H &kp J &kp K &kp L &kp SEMI &kp APOS
 		  &kp SHIFT &kp Z &kp X &kp C &kp V &kp B				  &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH &kp BSLH
-		  &studio_unlock &kp LCMD &trans  &kp LCTRL &kp SPACE &kp BACKSPACE &kp ENTER &kp A &kp A &kp A &sys_reset
+		  &studio_unlock &kp LCMD &trans  &kp LCTRL &kp SPACE &kp BACKSPACE &kp ENTER &kp A &kp A &kp A &bootloader
 		  &trans  &trans  &kp A &kp A &kp A &kp A				  &kp A &kp A &kp A &kp A &trans &sys_reset
 		>;
 	  };
