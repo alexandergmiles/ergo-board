@@ -21,8 +21,8 @@
 		  &kp TAB &kp A &kp S &kp D &kp F &kp G					  &kp H &kp J &kp K &kp L &kp SEMICOLON &kp APOS
 		  &kp LSHIFT &kp Z &kp X &kp C &kp V &kp V				  &kp N &kp M &kp COMMA &kp PERIOD &kp SLASH &kp BSLH
 		  &studio_unlock &trans &trans &trans &kp LCTRL &kp SPACE &kp BACKSPACE &kp ENTER &kp V &kp C &kp X &kp Z
-									  &kp A &kp A				  &kp A &kp B
-									  &kp B &kp B				  &kp C &kp D
+									  &kp A &kp B				  &kp A &kp B
+									  &kp C &kp D				  &kp C &kp D
 		>;
 	  };
   };
